@@ -49,8 +49,8 @@
 
 ## Timeline
 
-<!--- if applicable, include an estimated project completion time. You can break this up into a list of events. -->
+<!--- If applicable, include an estimated project completion time. You can break this up into a list of events. -->
 
 ## Test cases
 
-<!--- Include any test cases or preliminary research related to the change. -->
+<!--- If applicable, include any test cases or preliminary research related to the change. -->
