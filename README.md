@@ -39,15 +39,16 @@ An explanation of why the change is necessary. What is the problem that needs to
 
 <!--- Include any applicable code blocks or pseudocode describing the changes. -->
 
-#### Considerations
+### Considerations
 
 <!--- Describe any special or general considerations. Is there anything that we should be cautious about? Are there any invariants to keep in mind? -->
 
-### Outcome
+## Outcome
 
 <!--- Briefly describe the desired outcome of this change. -->
 
 ## Timeline
+
 <!--- if applicable, include an estimated project completion time. You can break this up into a list of events. -->
 
 ## Test cases
