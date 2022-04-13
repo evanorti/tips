@@ -13,7 +13,7 @@
 
 ## Motivation
 
-An explanation of why the change is necessary. What is the problem that needs to be solved? Why do these changes need to be implemented?
+<!--- An explanation of why the change is necessary. What is the problem that needs to be solved? Why do these changes need to be implemented? -->
 
 ## Tech Spec
 
