@@ -7,20 +7,6 @@ TIPs are a way to standardize proposed changes to the Terra core. Each TIP shoul
 - [TIP Github issue template](./.github/ISSUE_TEMPLATE/terra-improvement-proposal--tip-.md)
 
 
-
-## Writing TIPs
-
-A TIP should be clear and concise. 
-
-After reviewing a TIP, a reader should have a clear idea of the following:
-
-- What the change is (Summary and Overview).
-- Why the change needs to be made (Motivation).
-- How the change will be made (Method).
-- The technical details of the change (Tech Spec, Code, and Considerations).
-- What success looks like (Outcome).
-- Lead time and testing details (Timeline, Tests).
-
 ## Anatomy
 
 TIPs are arranged in the following structure:
@@ -43,3 +29,17 @@ Title: TIP # 01 Your Title Here
 ├── Timeline: The timeframe needed to complete the change.
 └── Tests: A list of tests implemented or needed. 
 ```
+
+## Writing TIPs
+
+A TIP should be clear and concise. 
+
+After reviewing a TIP, a reader should have a clear idea of the following:
+
+- What the change is (Summary and Overview).
+- Why the change needs to be made (Motivation).
+- How the change will be made (Method).
+- The technical details of the change (Tech Spec, Code, and Considerations).
+- What success looks like (Outcome).
+- Lead time and testing details (Timeline, Tests).
+
