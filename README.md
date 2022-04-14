@@ -10,6 +10,7 @@ TIPs are a way to standardize proposed changes to the Terra core. Each TIP shoul
 
 TIPs are arranged in the following structure:
 
+```
 Title
 - General info
     Summary
@@ -24,7 +25,8 @@ Title
     Outcome
     Timeline
     Tests
-    
+```
+
 ## Writing TIPs
 
 A TIP should be clear and concise. 
