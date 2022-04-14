@@ -1,4 +1,4 @@
-```
+
 # Terra Improvement Proposal (TIP) Template
 
 # Title 
@@ -62,4 +62,3 @@
 ## Test cases
 
 <!--- If applicable, include any test cases or preliminary research related to the change. -->
-```
