@@ -1,15 +1,15 @@
 ---
 name: Terra Improvement Proposal (TIP)
 about: Use this template to outline proposed changes to the Terra core.
-title: TIP title
+title: 'TIP # __ Your Title Here'
 labels: ''
 assignees: ''
 
 ---
 
-# Title <!---Include the TIP number in the title as follows: TIP # 01 Your Title Here-->
-
+<!---Include the TIP number in the title as follows: TIP # 01 Your Title Here-->
 **TIP #**:
+
 **Author**:  
 **Network**: <!---Add the mainnet version this change will apply to. -->
 **Date**: 
