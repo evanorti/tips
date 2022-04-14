@@ -1,6 +1,6 @@
 # Terra Improvement Proposals (TIPs)
 
-TIPs are a way to standardize proposed changes to the Terra core. Each TIP should be written using the templates found in this repo. Read the [TIP example](./tip-example.md) to see how to write a good TIP. 
+TIPs are a way to standardize proposed changes to the Terra core. Each TIP should be written using the templates found in this repo. The [TIP template](./tip-template) contains instructions on each section in the raw markdown. Read the [TIP example](./tip-example.md) to see how to write a good TIP. 
 
 - [TIP markdown template](./tip-template.md)
 - [TIP example](./tip-example.md)
@@ -20,7 +20,7 @@ Title: TIP # 01 Your Title Here
 │ 
 ├── Tech Spec
 │   ├── Modules: A list of the affected modules. 
-│   ├── Overview: The solution; a thechnical overview of the change. 
+│   ├── Overview: The solution; a technical overview of the change. 
 │   ├── Method: How the change will be implemented.
 │   ├── Code: Examples of the code involved. 
 │   └── Considerations: General considerations or cautions. 
@@ -42,4 +42,8 @@ After reviewing a TIP, a reader should have a clear idea of the following:
 - The technical details of the change (Tech Spec, Code, and Considerations).
 - What success looks like (Outcome).
 - Lead time and testing details (Timeline, Tests).
+
+There is no set length for TIPs. Each TIP should clearly outline a necessary change. More complex TIPs will naturally be longer. Keep TIPs succinct while providing all pertinent info. 
+
+Generally, shorter sentences are easier to write and read. Avoiding unnecessarily complex clauses will help clarify your writing. 
 
