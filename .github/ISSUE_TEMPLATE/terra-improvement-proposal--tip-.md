@@ -10,13 +10,9 @@ assignees: ''
 # Title <!---Include the TIP number in the title as follows: TIP # 01 Your Title Here-->
 
 **TIP #**:
-<br>
-**Author**: 
-<br>
+**Author**:  
 **Network**: <!---Add the mainnet version this change will apply to. -->
-<br>
 **Date**: 
-<br>
 
 ## Summary
 
