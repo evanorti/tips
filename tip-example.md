@@ -1,6 +1,6 @@
 # Terra Improvement Proposal (TIP) Example
  
-This example is a nonsense proposal created to show how TIPs can be used. This TIP is not real, and contains no real info.   
+This example is a nonsense proposal created to show how TIPs can be used. This TIP is not real and contains no real info.   
 
 Although this TIP is relatively succinct, the length of a TIP should reflect the complexity of the change.   
  
@@ -130,4 +130,5 @@ The anticipated timeline is five weeks to completion.
 <!--- If applicable, include any test cases or preliminary research related to the change. -->
  
 All testing shows that module logic will remain untouched. 
+
 
