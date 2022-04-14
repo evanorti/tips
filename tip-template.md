@@ -1,15 +1,21 @@
 # Terra Improvement Proposal (TIP) Template
 
-
 # Title
 
-**Author**:  
-**Network**:  <!---Add the mainnet version this change will apply to. -->  
-**Date**:   
+**TIP number**:
+<br>
+**Author**: 
+<br>
+**Network**: <!---Add the mainnet version this change will apply to. -->
+<br>
+**Date**: 
+<br>
 
 ## Summary
 
 <!--- A 1-2 sentence non-technical explanation of the change. Summaries should be easily understood by the general community. -->
+
+
 
 ## Motivation
 
@@ -17,15 +23,19 @@
 
 ## Tech Spec
 
-**Affected Modules**: <!--- Which modules will be altered? -->
-
+**Modules:** <!--- List affected modules with short notes on alterations. --> 
+-  
+-  
+-  
 ### Overview
 
-<!---A technical summary of the change and how it will solve the problem. -->
+<!---A technical summary of the change and how it will solve the problem. --> 
+
 
 ### Rationale
 
 <!--- Why are you doing it this way and not another way? What is the reasoning for using this method vs another route? -->
+
 
 ### Method
 
@@ -41,7 +51,8 @@
 
 ### Considerations
 
-<!--- Describe any special or general considerations. Is there anything that we should be cautious about? Are there any invariants to keep in mind? -->
+<!--- Describe any special or general considerations. Is there anything that you should be cautious about? Are there any invariants to keep in mind? -->
+
 
 ## Outcome
 
