@@ -7,9 +7,7 @@ assignees: ''
 
 ---
 
-# Title 
-
-<!---Include the TIP number in the title as follows: TIP # 01 Your Title Here-->
+# Title <!---Include the TIP number in the title as follows: TIP # 01 Your Title Here-->
 
 **TIP #**:
 <br>
