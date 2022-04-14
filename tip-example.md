@@ -1,5 +1,6 @@
-# Terra Improvement Proposal (TIP) Template
+# Terra Improvement Proposal (TIP) Example
 
+The following example is not a real TIP and for education purposes only. None of the info in this document applies to any real protocol change. 
 
 # New credit module (TIP 01)
 
@@ -37,7 +38,9 @@ The loan module is being depracated, but credit is still needed for the protocol
 
 <!---A technical summary of the change and how it will solve the problem. --> 
 
-Putting Credit logic in its own module. 
+The Loan module will be depracated due to it's mostly vestigil code. A new module will be created called the Credit module. This module will house all logic for credit swaps made between Credit-coins. The Credit module structure will be based off of the market modules determination logic.
+
+Let `n = 1` 
 
 ### Rationale
 
