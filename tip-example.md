@@ -1,6 +1,8 @@
 # Terra Improvement Proposal (TIP) Example
  
- This example is a nonsense proposal created to show how TIPs can be used. None of the info in this TIP is real. 
+This example is a nonsense proposal created to show how TIPs can be used. This TIP is not real, and contains no real info.   
+
+Although this TIP is relatively succinct, the length of a TIP should reflect the complexity of the change.   
  
 # TIP # 143: New credit module 
  
@@ -17,14 +19,13 @@
  
 <!--- A 1-2 sentence non-technical explanation of the change. Summaries should be easily understood by the general community. -->
  
-Credit logic will be moved to its own module.
- 
+The Credit-swap logic will be moved to its own module.
  
 ## Motivation
  
 <!--- An explanation of why the change is necessary. What is the problem that needs to be solved? Why do these changes need to be implemented? -->
  
-The loan module is being deprecated, but credit is still needed for the protocol to function properly. The credit logic needs to be moved to its own module.
+The Loan module is being deprecated, but credit is still needed for the protocol to function properly. The credit logic needs to be moved to its own module.
  
 ## Tech Spec
  
@@ -40,13 +41,6 @@ The loan module is being deprecated, but credit is still needed for the protocol
  
 The Loan module will be deprecated due to its mostly vestigial code. A new module will be created called the Credit module. This module will house all logic for credit swaps made between Credit-coins. The Credit module structure will be based on the market modules determination logic.
  
- 
- 
-### Rationale
- 
-<!--- Why are you doing it this way and not another way? What is the reasoning for using this method vs another route? -->
-No other module can logically house the credit logic, so a new module needs to be made.
- 
 ### Method
  
 <!--- An outline of how the change will be implemented. This can include a numbered list of steps necessary for completion. -->
@@ -55,7 +49,7 @@ No other module can logically house the credit logic, so a new module needs to b
 2. Deprecate Loan module.
 3. Input logic into credit module.
 4. A lot more work
-5. some more work.
+5. Some more work.
  
 ### Code
  
