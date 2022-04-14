@@ -33,12 +33,6 @@
 
 <!---A technical summary of the change and how it will solve the problem. --> 
 
-
-### Rationale
-
-<!--- Why are you doing it this way and not another way? What is the reasoning for using this method vs another route? -->
-
-
 ### Method
 
 <!--- An outline of how the change will be implemented. This can include a numbered list of steps necessary for completion. -->
