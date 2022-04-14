@@ -23,7 +23,7 @@ After reviewing a TIP, a reader should have a clear idea of the following:
 
 TIPs are arranged in the following structure:
 
-
+```md
 **Title**: TIP # 01 Your Title Here
 - General info: TIP #, Author, Network, Date
 
@@ -48,3 +48,4 @@ TIPs are arranged in the following structure:
 
 **Tests**: A list of tests implemented or needed. 
 
+```
