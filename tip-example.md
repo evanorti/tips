@@ -1,5 +1,6 @@
 # Terra Improvement Proposal (TIP) Example
  
+ This example is a nonsense proposal created to show how TIPs can be used. None of the info in this TIP is real. 
  
 # TIP # 143: New credit module 
  
