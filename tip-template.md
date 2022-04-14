@@ -1,4 +1,4 @@
-# Terra improve proposal (TIP) template
+# Terra Improvement Proposal (TIP) template
 
 
 # Title
