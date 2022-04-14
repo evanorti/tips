@@ -1,7 +1,7 @@
 
 # Terra Improvement Proposal (TIP) Template
 
-(View raw for instructions.)
+[View raw](https://github.com/evanorti/tips/raw/main/tip-template.md) for instructions.
 
 # Title 
 
