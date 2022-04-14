@@ -1,8 +1,10 @@
 # Terra Improvement Proposal (TIP) Template
 
-# Title
+# Title 
 
-**TIP number**:
+<!---Include the TIP number in the title as follows: TIP # 01 Your Title Here-->
+
+**TIP #**:
 <br>
 **Author**: 
 <br>
