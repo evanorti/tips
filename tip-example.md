@@ -1,7 +1,7 @@
 # Terra Improvement Proposal (TIP) Example
  
  
-# TIP# 143: New credit module 
+# TIP # 143: New credit module 
  
 **TIP #**: 143
 <br>
