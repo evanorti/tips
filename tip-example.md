@@ -111,12 +111,6 @@ func LazyGradedCreditAccount(baseAcc *authtypes.BaseAccount, originalCredit sdk.
  
 The Loan module also contains the logic needed to asses `FileAccounts`. This logic must be moved to another module, as outlined in TIP # 123
  
-## Outcome
- 
-<!--- Briefly describe the desired outcome of this change. -->
- 
-Once completed, all unnecessary Loan module logic will be deprecated, and users will still be able to make credit swaps. All functionality will be kept untouched.
- 
 ## Timeline
  
 <!--- If applicable, include an estimated project completion time. You can break this up into a list of events. -->
