@@ -56,11 +56,6 @@ assignees: ''
 
 <!--- Describe any special or general considerations. Is there anything that you should be cautious about? Are there any invariants to keep in mind? -->
 
-
-## Outcome
-
-<!--- Briefly describe the desired outcome of this change. -->
-
 ## Timeline
 
 <!--- If applicable, include an estimated project completion time. You can break this up into a list of events. -->
