@@ -25,7 +25,6 @@ Title: TIP # 01 Your Title Here
 │   ├── Code: Examples of the code involved. 
 │   └── Considerations: General considerations or cautions. 
 │ 
-├── Outcome: The desired outcome. 
 ├── Timeline: The timeframe needed to complete the change.
 └── Tests: A list of tests implemented or needed. 
 ```
