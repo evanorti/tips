@@ -1,3 +1,5 @@
+![](./img/tips-banner.png)
+
 # Terra Improvement Proposals (TIPs)
 
 TIPs are a way to standardize proposed changes to the Terra core. Each TIP should be written using the templates found in this repo. The [TIP template](./tip-template) contains instructions on each section in the raw markdown. Read the [TIP example](./tip-example.md) to see how to write a good TIP. 
